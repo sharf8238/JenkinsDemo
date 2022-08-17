@@ -12,4 +12,7 @@ stages {
   stage(Rlease) {
   }
   
+  stage(Monitoring) {
+  }
+  
   }
