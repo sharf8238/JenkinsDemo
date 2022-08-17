@@ -1,0 +1,15 @@
+stages {
+
+  stage(Build){
+  }
+  
+  stage(deploy) {
+  }
+  
+  stage(Application Testing) {
+  }
+  
+  stage(Rlease) {
+  }
+  
+  }
